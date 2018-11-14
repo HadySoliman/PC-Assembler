@@ -7,6 +7,13 @@ html, body {margin: 0; height: 100%; overflow: hidden}
 	border: 15px solid black;
 
 }
+th{
+	text-align: center!important;
+}
+.table {
+	max-width: 111%!important;
+	width: 110%!important;
+}
 .HomePageButtons {
 	text-align: center;
     font-size: 34px;
@@ -15,6 +22,7 @@ html, body {margin: 0; height: 100%; overflow: hidden}
     margin-top:10%;
 
 }
+
 .Logo{
 	text-align: center;
 	height: 20px;
